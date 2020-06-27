@@ -40,9 +40,9 @@ conclusions are given below along with the plots.
 
 
 <p align="center">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig8.png?raw=true" width=224 align="middle">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig9.png?raw=true" width=224 align="middle">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig10.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Data_Analytics_with_the_Fisher_Iris_Dataset/blob/master/images/1.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Data_Analytics_with_the_Fisher_Iris_Dataset/blob/master/images/2.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Data_Analytics_with_the_Fisher_Iris_Dataset/blob/master/images/10.png?raw=true" width=224 align="middle">
 </p>
 <p align="center">(c)</p>
 
@@ -53,7 +53,7 @@ Length(x) into 5 or 10 bins.
 ### 2.1 Description
 
 <p align="center">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig8.png?raw=true" width=650 align="middle">
+<img src="https://github.com/Shivank1006/Data_Analytics_with_the_Fisher_Iris_Dataset/blob/master/images/7.png?raw=true" width=700 align="middle">
 </p>
 
 
@@ -81,12 +81,12 @@ the case of sepal width. Also in every boxplot the length of the box and whisker
 variation of values from average value. The variation is again high for virginica in the first
 
 <p align="center">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig8.png?raw=true" width=224 align="middle">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig9.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Data_Analytics_with_the_Fisher_Iris_Dataset/blob/master/images/3.png?raw=true" width=300 align="middle">
+<img src="https://github.com/Shivank1006/Data_Analytics_with_the_Fisher_Iris_Dataset/blob/master/images/4.png?raw=true" width=300 align="middle">
  </p>
  <p align="center">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig10.png?raw=true" width=224 align="middle">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig10.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Data_Analytics_with_the_Fisher_Iris_Dataset/blob/master/images/5.png?raw=true" width=300 align="middle">
+<img src="https://github.com/Shivank1006/Data_Analytics_with_the_Fisher_Iris_Dataset/blob/master/images/6.png?raw=true" width=300 align="middle">
 </p>
 
 Figure 2: (a)Box plot for petal length(cm) (b)Box plot for petal width(cm) (c)Box plot for
