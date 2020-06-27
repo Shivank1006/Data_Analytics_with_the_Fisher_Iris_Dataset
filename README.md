@@ -44,7 +44,6 @@ conclusions are given below along with the plots.
 <img src="https://github.com/Shivank1006/Data_Analytics_with_the_Fisher_Iris_Dataset/blob/master/images/2.png?raw=true" width=224 align="middle">
 <img src="https://github.com/Shivank1006/Data_Analytics_with_the_Fisher_Iris_Dataset/blob/master/images/10.png?raw=true" width=224 align="middle">
 </p>
-<p align="center">(c)</p>
 
 Figure 1: (a)Correlation Heat map for different features. (b)Scatter plot with Petal Length(x)
 and Petal Width(y) for all data points. (c)Distribution of Sepal Width(y) by grouping Sepal
