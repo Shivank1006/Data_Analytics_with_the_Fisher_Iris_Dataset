@@ -39,7 +39,12 @@ the data. It is found that there are no null entries in the dataset which is goo
 conclusions are given below along with the plots.
 
 
-
+<p align="center">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig8.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig9.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig10.png?raw=true" width=224 align="middle">
+</p>
+<p align="center">(c)</p>
 
 Figure 1: (a)Correlation Heat map for different features. (b)Scatter plot with Petal Length(x)
 and Petal Width(y) for all data points. (c)Distribution of Sepal Width(y) by grouping Sepal
@@ -47,17 +52,10 @@ Length(x) into 5 or 10 bins.
 
 ### 2.1 Description
 
+<p align="center">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig8.png?raw=true" width=650 align="middle">
+</p>
 
-Iris Dataset Description
-sepal length (cm) sepal width (cm) petal length (cm) petal width (cm)
-count 150.000000 150.000000 150.000000 150.
-mean 5.843333 3.057333 3.758000 1.
-std 0.828066 0.435866 1.765298 0.
-min 4.300000 2.000000 1.000000 0.
-25% 5.100000 2.800000 1.600000 0.
-50% 5.800000 3.000000 4.350000 1.
-75% 6.400000 3.300000 5.100000 1.
-max 7.900000 4.400000 6.900000 2.
 
 ### 2.2 Correlation Heatmap
 
@@ -82,7 +80,14 @@ The median for the virginica species is always greater than the two other specie
 the case of sepal width. Also in every boxplot the length of the box and whiskers show the
 variation of values from average value. The variation is again high for virginica in the first
 
-
+<p align="center">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig8.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig9.png?raw=true" width=224 align="middle">
+ </p>
+ <p align="center">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig10.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig10.png?raw=true" width=224 align="middle">
+</p>
 
 Figure 2: (a)Box plot for petal length(cm) (b)Box plot for petal width(cm) (c)Box plot for
 sepal length(cm) (d)Box plot for sepal length(cm)
